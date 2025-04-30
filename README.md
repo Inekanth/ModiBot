@@ -9,7 +9,7 @@ bash
 project link "https://github.com/Inekanth/ModiBot.git"
 
 # step 1
-conda create -n mediBot python = 3.10 -y
+conda create -n mediBot python=3.10 -y
 
 # step 2
 conda activate mediBot
